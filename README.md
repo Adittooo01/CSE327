@@ -1,1 +1,1 @@
-# CSE327
+# CSE327 Hospital Management System
